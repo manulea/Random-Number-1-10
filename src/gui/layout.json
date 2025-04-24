@@ -1,0 +1,107 @@
+{
+    "window": {
+        "title": "Random Number Generator",
+        "background": "grey"
+    },
+    "buttons": [
+        {
+            "text": "1",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "2",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "3",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "4",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "5",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "6",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "7",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "8",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "9",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "10",
+            "command": "play_audio",
+            "width": 10,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        },
+        {
+            "text": "Random",
+            "command": "play_random_audio",
+            "width": 15,
+            "height": 2,
+            "bg": "grey",
+            "fg": "green",
+            "relief": "flat"
+        }
+    ]
+}
