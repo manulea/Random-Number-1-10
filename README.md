@@ -51,4 +51,12 @@ python src/main.py
 
 4. Click the "Generate random number" button to play a random audio clip.
 
-Enjoy the random number generator and audio playback!# Random-Number-1-10
+Enjoy the random number generator and audio playback!
+
+# Random-Number-1-10
+
+With The help of CoPilot and Visual Code
+
+Also Millie Pillie for giving me the ideas :) hahaha!
+
+Special Mentions: Loki Poki and Marianne haha!
